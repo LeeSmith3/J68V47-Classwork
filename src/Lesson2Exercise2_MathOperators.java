@@ -1,10 +1,12 @@
 import java.util.*;
 public class Lesson2Exercise2_MathOperators {
     public static void main(String[] args) {
+        /* Declares variables*/
         float num1;
         float num2;
         float answer;
 
+        /* Gets user input */
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a number. ");
         num1 = input.nextInt();
@@ -12,6 +14,7 @@ public class Lesson2Exercise2_MathOperators {
         System.out.print("Enter another number. ");
         num2 = input.nextInt();
 
+        /* Calculates and displays answers */
         answer = num1 + num2;
         System.out.print("When added together, the two numbers make " + answer + "\n");
         answer = num1 - num2;
