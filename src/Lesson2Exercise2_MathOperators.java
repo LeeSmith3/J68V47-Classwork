@@ -1,9 +1,9 @@
 import java.util.*;
 public class Lesson2Exercise2_MathOperators {
     public static void main(String[] args) {
-        int num1;
-        int num2;
-        int answer;
+        float num1;
+        float num2;
+        float answer;
 
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a number. ");
@@ -16,6 +16,10 @@ public class Lesson2Exercise2_MathOperators {
         System.out.print("When added together, the two numbers make " + answer + "\n");
         answer = num1 - num2;
         System.out.print("When the second number is taken away from the first number, we end up with " + answer + "\n");
+        answer = num1 * num2;
+        System.out.print("When the numbers are multiplied with each other, we get " + answer + "\n");
+        answer = num1 / num2;
+        System.out.print("When divided, we end up with " + answer + "\n");
     }
 
 }
