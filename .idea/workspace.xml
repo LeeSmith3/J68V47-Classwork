@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="Add input code">
+    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="Add relevant comments">
+      <change afterPath="$PROJECT_DIR$/src/Lesson2Exercise2_MathOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2Exercise1_ShortStory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2Exercise1_ShortStory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
       <workItem from="1693388677901" duration="84000" />
       <workItem from="1693388773507" duration="14000" />
       <workItem from="1693388833011" duration="4224000" />
-      <workItem from="1693987198314" duration="2740000" />
+      <workItem from="1693987198314" duration="4246000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -136,7 +136,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693988900293</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add output code">
+      <option name="closed" value="true" />
+      <created>1693990356570</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693990356570</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add relevant comments">
+      <option name="closed" value="true" />
+      <created>1693990503657</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1693990503657</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +177,9 @@
     <MESSAGE value="Add anagrams class" />
     <MESSAGE value="Add lesson 2 ex 1 class" />
     <MESSAGE value="Add input code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add input code" />
+    <MESSAGE value="Add output code" />
+    <MESSAGE value="Add relevant comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add relevant comments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
