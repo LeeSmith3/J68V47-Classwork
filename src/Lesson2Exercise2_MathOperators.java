@@ -2,9 +2,9 @@ import java.util.*;
 public class Lesson2Exercise2_MathOperators {
     public static void main(String[] args) {
         /* Declares variables*/
-        float num1;
-        float num2;
-        float answer;
+        int num1;
+        int num2;
+        int answer;
 
         /* Gets user input */
         Scanner input = new Scanner(System.in);
