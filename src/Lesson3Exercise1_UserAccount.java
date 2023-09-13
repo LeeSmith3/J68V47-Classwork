@@ -12,6 +12,10 @@ public class Lesson3Exercise1_UserAccount {
 
         System.out.print("Enter your year of birth: ");
         String yrOfBirth = input.next();
+
+        System.out.println("Username: "+ firstName.substring(0,1).toUpperCase() + surname.toLowerCase());
+
+        System.out.println("Password: "+ surname.substring(0,1).toLowerCase() + firstName.toUpperCase() + yrOfBirth);
     }
 
 }
