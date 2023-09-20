@@ -3,16 +3,16 @@ public class Lesson4Exercise1_Deposit {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Enter your first name: ");
+        System.out.print("Enter your first name: ");
         String firstName = input.next();
 
-        System.out.println("Enter your surname: ");
+        System.out.print("Enter your surname: ");
         String surname = input.next();
 
-        System.out.println("Enter the total value of your order: ");
+        System.out.print("Enter the total value of your order: ");
         float orderVal = input.nextFloat();
 
-        System.out.println("Enter the amount you wish to pay as deposit: ");
+        System.out.print("Enter the amount you wish to pay as deposit: ");
         float deposit = input.nextFloat();
 
         if (deposit > orderVal) {
@@ -23,7 +23,19 @@ public class Lesson4Exercise1_Deposit {
             deposit = input.nextFloat();
         }
 
+        float remainder = orderVal - deposit;
 
+        System.out.println("\n -- RECEIPT --");
+        System.out.println("Customer: "+firstName.substring(0,1)+" "+surname);
+        System.out.format("Order total: £%.2f", orderVal);
+        System.out.format("\nDeposit paid: £%.2f", deposit);
+        System.out.format("\nRemainder: £%.2f", remainder);
+        System.out.println(" ");
+        if (deposit > 100){
+            System.out.println("You get a free toaster!");
+        }
+
+        System.out.println("Have a nice day.");
 
     }
 }
