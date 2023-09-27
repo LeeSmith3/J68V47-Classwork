@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="create L5E2 Java class">
-      <change beforePath="$PROJECT_DIR$/src/Lesson5Exercise2_blastOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5Exercise2_blastOff.java" afterDir="false" />
+    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="create L5E3 java class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5Exercise3_MathQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5Exercise3_MathQuiz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <workItem from="1694592648011" duration="1494000" />
       <workItem from="1694595137619" duration="3934000" />
       <workItem from="1695197038348" duration="7512000" />
-      <workItem from="1695803673985" duration="1238000" />
+      <workItem from="1695803673985" duration="3065000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -355,7 +356,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695804802053</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="L5E2">
+      <option name="closed" value="true" />
+      <created>1695805019250</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1695805019250</updated>
+    </task>
+    <task id="LOCAL-00037" summary="create L5E3 java class">
+      <option name="closed" value="true" />
+      <created>1695805220384</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1695805220384</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,8 +390,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add anagrams class" />
-    <MESSAGE value="Add lesson 2 ex 1 class" />
     <MESSAGE value="Add input code" />
     <MESSAGE value="Add math operators class" />
     <MESSAGE value="Add mathematical calculations" />
@@ -398,7 +413,9 @@
     <MESSAGE value="Create L5E1 java class" />
     <MESSAGE value="L5E1" />
     <MESSAGE value="create L5E2 Java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="create L5E2 Java class" />
+    <MESSAGE value="L5E2" />
+    <MESSAGE value="create L5E3 java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="create L5E3 java class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
