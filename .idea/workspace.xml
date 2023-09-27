@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="L4E2">
+    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="L4E3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,8 @@
       <workItem from="1693987198314" duration="10282000" />
       <workItem from="1694592648011" duration="1494000" />
       <workItem from="1694595137619" duration="3934000" />
-      <workItem from="1695197038348" duration="6085000" />
+      <workItem from="1695197038348" duration="7512000" />
+      <workItem from="1695803673985" duration="517000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -314,7 +315,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695205438421</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="create L4E3 class">
+      <option name="closed" value="true" />
+      <created>1695206595347</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1695206595347</updated>
+    </task>
+    <task id="LOCAL-00032" summary="L4E3">
+      <option name="closed" value="true" />
+      <created>1695207522228</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1695207522228</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +349,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="add haiku exercise" />
     <MESSAGE value="Add comments to hello world class" />
@@ -356,7 +372,9 @@
     <MESSAGE value="Create outputs" />
     <MESSAGE value="add annotations" />
     <MESSAGE value="L4E2" />
-    <option name="LAST_COMMIT_MESSAGE" value="L4E2" />
+    <MESSAGE value="create L4E3 class" />
+    <MESSAGE value="L4E3" />
+    <option name="LAST_COMMIT_MESSAGE" value="L4E3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
