@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="L5 extra task B">
+    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/Lesson7Exercise1_MightyMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,7 @@
       <workItem from="1695197038348" duration="7512000" />
       <workItem from="1695803673985" duration="6562000" />
       <workItem from="1696406520453" duration="8955000" />
-      <workItem from="1697012262304" duration="630000" />
+      <workItem from="1697012262304" duration="4616000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -445,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696416605543</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary=".">
+      <option name="closed" value="true" />
+      <created>1697015658473</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1697015658473</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,7 +484,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
     <MESSAGE value="Create L3E1 class" />
     <MESSAGE value="add input code" />
     <MESSAGE value="Add output code" />
@@ -500,7 +508,8 @@
     <MESSAGE value="L6E2" />
     <MESSAGE value="L6E3" />
     <MESSAGE value="L5 extra task B" />
-    <option name="LAST_COMMIT_MESSAGE" value="L5 extra task B" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
