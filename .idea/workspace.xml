@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="L7E1">
-      <change afterPath="$PROJECT_DIR$/src/Lesson7Exercise2_SumFunction.java" afterDir="false" />
+    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="L7E2">
+      <change afterPath="$PROJECT_DIR$/src/Lesson8Exercise1_StudentNames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,8 @@
       <workItem from="1695197038348" duration="7512000" />
       <workItem from="1695803673985" duration="6562000" />
       <workItem from="1696406520453" duration="8955000" />
-      <workItem from="1697012262304" duration="6147000" />
+      <workItem from="1697012262304" duration="6259000" />
+      <workItem from="1698839000447" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -462,7 +463,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697020746545</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="L7E2">
+      <option name="closed" value="true" />
+      <created>1697022196662</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1697022196662</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +501,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add input code" />
     <MESSAGE value="Add output code" />
     <MESSAGE value="Add L3E2 class" />
     <MESSAGE value="Create L3E3 class" />
@@ -517,7 +525,8 @@
     <MESSAGE value="L5 extra task B" />
     <MESSAGE value="." />
     <MESSAGE value="L7E1" />
-    <option name="LAST_COMMIT_MESSAGE" value="L7E1" />
+    <MESSAGE value="L7E2" />
+    <option name="LAST_COMMIT_MESSAGE" value="L7E2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
