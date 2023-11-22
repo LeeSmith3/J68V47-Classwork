@@ -1,5 +1,3 @@
-package Lesson7;
-
 import java.util.Scanner;
 public class Lesson7Exercise2_SumFunction {
 

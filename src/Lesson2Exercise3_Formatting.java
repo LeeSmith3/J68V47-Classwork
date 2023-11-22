@@ -1,5 +1,3 @@
-package Lesson2;
-
 import java.util.*;
 
 public class Lesson2Exercise3_Formatting {

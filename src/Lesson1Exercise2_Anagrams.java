@@ -1,5 +1,3 @@
-package Lesson1;
-
 public class Lesson1Exercise2_Anagrams {
     public static void main (String[] args){
         System.out.println("Here are 5 9-letter anagrams:");

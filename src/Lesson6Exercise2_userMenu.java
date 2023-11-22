@@ -1,5 +1,3 @@
-package Lesson6;
-
 import java.util.*;
 public class Lesson6Exercise2_userMenu {
     public static void main(String[] args) {
