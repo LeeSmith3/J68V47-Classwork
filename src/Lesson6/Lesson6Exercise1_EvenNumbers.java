@@ -1,3 +1,5 @@
+package Lesson6;
+
 public class Lesson6Exercise1_EvenNumbers {
     public static void main(String[] args) {
         int startingNumber = 10;

@@ -5,8 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="L7E1">
-      <change afterPath="$PROJECT_DIR$/src/Lesson7Exercise2_SumFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson11/Lesson11Exercise1_timesTables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1Exercise1_Haiku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/Lesson1Exercise1_Haiku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1Exercise2_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/Lesson1Exercise2_Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2Exercise1_ShortStory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Lesson2Exercise1_ShortStory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2Exercise2_MathOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Lesson2Exercise2_MathOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2Exercise3_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Lesson2Exercise3_Formatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3Exercise1_UserAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/Lesson3Exercise1_UserAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3Exercise2_Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/Lesson3Exercise2_Quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3Exercise3_Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/Lesson3Exercise3_Loan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4Exercise1_Deposit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/Lesson4Exercise1_Deposit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4Exercise3_Shipping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/Lesson4Exercise3_Shipping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5A_factorialcalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/Lesson5A_factorialcalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5B_GuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/Lesson5B_GuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5Exercise1_TimesTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/Lesson5Exercise1_TimesTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5Exercise2_blastOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/Lesson5Exercise2_blastOff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5Exercise3_MathQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/Lesson5Exercise3_MathQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6Exercise1_EvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/Lesson6Exercise1_EvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6Exercise2_userMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/Lesson6Exercise2_userMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6Exercise3_mathsquizalter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/Lesson6Exercise3_mathsquizalter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7Exercise1_MightyMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/Lesson7Exercise1_MightyMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7Exercise2_SumFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/Lesson7Exercise2_SumFunction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +58,7 @@
     </option>
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: -1
+  &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2UhP84MC5TpGiCk4HgJoBRmYlIY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,20 +66,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/30130234/IdeaProjects/J68V47-Classwork/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/30130234/IdeaProjects/J68V47-Classwork/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,6 +99,8 @@
       <workItem from="1695803673985" duration="6562000" />
       <workItem from="1696406520453" duration="8955000" />
       <workItem from="1697012262304" duration="6147000" />
+      <workItem from="1698425488865" duration="16000" />
+      <workItem from="1700647080806" duration="1106000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
