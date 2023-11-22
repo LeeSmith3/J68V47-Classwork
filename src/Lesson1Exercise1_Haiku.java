@@ -1,5 +1,3 @@
-package Lesson1;
-
 public class Lesson1Exercise1_Haiku {
     public static void main(String[] args) {
         System.out.println("Dancing beams of light,");

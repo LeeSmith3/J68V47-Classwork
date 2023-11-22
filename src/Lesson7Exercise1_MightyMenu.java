@@ -1,5 +1,3 @@
-package Lesson7;
-
 import java.util.*;
 
 public class Lesson7Exercise1_MightyMenu {

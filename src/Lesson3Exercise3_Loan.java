@@ -1,5 +1,3 @@
-package Lesson3;
-
 import java.util.*;
 public class Lesson3Exercise3_Loan {
     public static void main(String[] args) {

@@ -1,5 +1,3 @@
-package Lesson5;
-
 import java.util.*;
 public class Lesson5B_GuessingGame {
     public static void main(String[] args) {
