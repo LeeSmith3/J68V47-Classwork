@@ -1,3 +1,5 @@
+package Lesson3;
+
 import java.util.*;
 public class Lesson3Exercise2_Quiz {
     public static void main(String[] args) {

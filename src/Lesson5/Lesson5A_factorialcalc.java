@@ -1,3 +1,5 @@
+package Lesson5;
+
 import java.util.*;
 
 public class Lesson5A_factorialcalc {

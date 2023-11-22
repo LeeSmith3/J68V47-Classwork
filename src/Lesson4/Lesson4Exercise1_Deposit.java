@@ -1,3 +1,5 @@
+package Lesson4;
+
 import java.util.*;
 public class Lesson4Exercise1_Deposit {
     public static void main(String[] args) {
