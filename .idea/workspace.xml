@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="L7E1">
-      <change afterPath="$PROJECT_DIR$/src/Lesson7Exercise2_SumFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson11Exercise1_timestables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -479,7 +478,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -492,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add input code" />
     <MESSAGE value="Add output code" />
     <MESSAGE value="Add L3E2 class" />
     <MESSAGE value="Create L3E3 class" />
@@ -517,7 +515,8 @@
     <MESSAGE value="L5 extra task B" />
     <MESSAGE value="." />
     <MESSAGE value="L7E1" />
-    <option name="LAST_COMMIT_MESSAGE" value="L7E1" />
+    <MESSAGE value="Moved files into packages + L11E1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved files into packages + L11E1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
