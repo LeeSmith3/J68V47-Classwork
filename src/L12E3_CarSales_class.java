@@ -1,5 +1,5 @@
 public class L12E3_CarSales_class {
-    class car {
+    static class car {
         public String make = "";
         public String model = "";
         public int year = 0000;
