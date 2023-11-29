@@ -29,4 +29,7 @@ public class Lesson12Exercise3_CarSales {
         }
         return thisClass;
     }
+    public static void printCars(L12E3_CarSales_class.car thisCar){
+        System.out.print("Price: ", thisCar.toString(price));
+    }
 }
