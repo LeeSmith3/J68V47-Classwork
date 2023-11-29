@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/Lesson12Exercise1_Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="L12E1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,15 +75,7 @@
       <workItem from="1696406520453" duration="8955000" />
       <workItem from="1697012262304" duration="6259000" />
       <workItem from="1698839000447" duration="1018000" />
-      <workItem from="1701248850139" duration="2230000" />
-    </task>
-    <task id="LOCAL-00005" summary="Add comments to hello world class">
-      <option name="closed" value="true" />
-      <created>1693392002628</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1693392002628</updated>
+      <workItem from="1701248850139" duration="2644000" />
     </task>
     <task id="LOCAL-00006" summary="Add anagrams class">
       <option name="closed" value="true" />
@@ -472,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701249100316</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="L12E1">
+      <option name="closed" value="true" />
+      <created>1701251679283</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1701251679283</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add code" />
     <MESSAGE value="Create L4E1 class" />
     <MESSAGE value="Create inputs and validation" />
     <MESSAGE value="Create outputs" />
@@ -527,7 +523,8 @@
     <MESSAGE value="L8E2" />
     <MESSAGE value="L8E3" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="L12E1" />
+    <option name="LAST_COMMIT_MESSAGE" value="L12E1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

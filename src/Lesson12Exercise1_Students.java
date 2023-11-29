@@ -1,6 +1,6 @@
 public class Lesson12Exercise1_Students {
 
-    public class Student {
+    public static class Student {
 
         public int id = 3412323;
         public String firstName = "John";
@@ -13,7 +13,7 @@ public class Lesson12Exercise1_Students {
         System.out.format("(%d) %s %s %n", thisStudent.id, thisStudent.firstName, thisStudent.surname);
     }
 
-    public void main(String[] args) {
+    public static void main(String[] args) {
         // create student object and display
         Student student1 = new Student();
         displayStudent(student1);
