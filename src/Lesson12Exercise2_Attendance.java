@@ -37,13 +37,12 @@ public class Lesson12Exercise2_Attendance {
         return thisClass;
     }
     public static String attendance(boolean studentIsHere){
-        String present;
+
         if(studentIsHere){
-            present = "X ";
+            return "X ";
         } else {
-            present = "O ";
+            return "O ";
         }
-        return present;
     }
 
     public static void displayStudent(Student thisStudent){
