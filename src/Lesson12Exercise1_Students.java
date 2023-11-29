@@ -2,9 +2,9 @@ public class Lesson12Exercise1_Students {
 
     public class Student {
 
-        public int id = 0;
-        public String firstName = "";
-        public String surname = "";
+        public int id = 3412323;
+        public String firstName = "John";
+        public String surname = "Smith";
 
         public boolean present = true;
 
