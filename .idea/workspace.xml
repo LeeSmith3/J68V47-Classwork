@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="L12E2" />
+    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="L12E2">
+      <change afterPath="$PROJECT_DIR$/src/L12E3_CarSales_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson12Exercise3_CarSales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,15 +79,7 @@
       <workItem from="1696406520453" duration="8955000" />
       <workItem from="1697012262304" duration="6259000" />
       <workItem from="1698839000447" duration="1018000" />
-      <workItem from="1701248850139" duration="5196000" />
-    </task>
-    <task id="LOCAL-00011" summary="Add math operators class">
-      <option name="closed" value="true" />
-      <created>1693991973525</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1693991973525</updated>
+      <workItem from="1701248850139" duration="6127000" />
     </task>
     <task id="LOCAL-00012" summary="Add mathematical calculations">
       <option name="closed" value="true" />
@@ -469,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701253923000</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="L12E2">
+      <option name="closed" value="true" />
+      <created>1701255935972</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1701255935972</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
