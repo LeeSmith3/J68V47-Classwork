@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="L12E1 complete" />
+    <list default="true" id="c5ffd28b-eee7-4e61-a655-6aa0f9adb26c" name="Changes" comment="L12E2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson12Exercise2_Attendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson12Exercise2_Attendance.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,23 +78,7 @@
       <workItem from="1696406520453" duration="8955000" />
       <workItem from="1697012262304" duration="6259000" />
       <workItem from="1698839000447" duration="1018000" />
-      <workItem from="1701248850139" duration="3041000" />
-    </task>
-    <task id="LOCAL-00008" summary="Add input code">
-      <option name="closed" value="true" />
-      <created>1693988900293</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1693988900293</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Add output code">
-      <option name="closed" value="true" />
-      <created>1693990356570</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1693990356570</updated>
+      <workItem from="1701248850139" duration="4428000" />
     </task>
     <task id="LOCAL-00010" summary="Add relevant comments">
       <option name="closed" value="true" />
@@ -469,7 +456,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701252185414</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="L12E2">
+      <option name="closed" value="true" />
+      <created>1701252384994</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1701252384994</updated>
+    </task>
+    <task id="LOCAL-00058" summary="L12E2">
+      <option name="closed" value="true" />
+      <created>1701252852171</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1701252852171</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,7 +502,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create inputs and validation" />
     <MESSAGE value="Create outputs" />
     <MESSAGE value="add annotations" />
     <MESSAGE value="L4E2" />
@@ -524,7 +526,8 @@
     <MESSAGE value="." />
     <MESSAGE value="L12E1" />
     <MESSAGE value="L12E1 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="L12E1 complete" />
+    <MESSAGE value="L12E2" />
+    <option name="LAST_COMMIT_MESSAGE" value="L12E2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

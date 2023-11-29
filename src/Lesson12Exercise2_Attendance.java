@@ -37,12 +37,13 @@ public class Lesson12Exercise2_Attendance {
         return thisClass;
     }
     public static String attendance(boolean studentIsHere){
+        String present;
         if(studentIsHere){
-            System.out.println("X ");
+            present = "X ";
         } else {
-            System.out.println("O ");
+            present = "O ";
         }
-        return null;
+        return present;
     }
 
     public static void displayStudent(Student thisStudent){
@@ -51,10 +52,11 @@ public class Lesson12Exercise2_Attendance {
     }
     public static void main(String[] args) {
         // load file contents into an array of student objects
-        ArrayList<Student> thisClass = loadFile("students.txt");
+        ArrayList<Student> thisClass = loadFile("src/students.txt");
         // loop for all objects and show details
         for(int i=0;i<thisClass.size();i++){
             Student thisStudent = thisClass.get(i);
+            displayStudent(thisStudent);
             // show details for this student
             // ...
         }
